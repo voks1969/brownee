@@ -1,0 +1,19 @@
+Given a keypad as shown below
+ 
+-------------------
+     |  abc | def |
+  1  |   2  |  3  |
+-------------------
+ghi  |  jkl | mno |
+  4  |   5  |  6  |
+-------------------
+pqrs |  tuv |wxyz |
+  7  |   8  |  9  |
+-------------------
+     |      |     |
+  *  |   0  |  #  |
+-------------------
+
+For n-digits number, list all words which are possible by pressing these numbers.
+For example if input number is 234, possible words which can be formed are :
+adg adh adi aeg aeh aei afg afh afi bdg bdh bdi beg beh bei bfg bfh bfi cdg cdh cdi ceg ceh cei cfg cfh cfi
